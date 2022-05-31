@@ -24,7 +24,9 @@ V(G)= E-N+2 =36-29+2=9
 </br>
 Тест случаи според критериумот Every statement
 </br>
+
 ![siLab2](https://user-images.githubusercontent.com/102327517/171293445-6eb0d702-3d21-4896-8192-acd8070be4b6.png)
+
 </br>
     void everyStatmentTest()
     {
